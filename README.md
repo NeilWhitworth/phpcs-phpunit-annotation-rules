@@ -1,0 +1,1 @@
+# phpcs-phpunit-annotation-rules
